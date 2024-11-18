@@ -87,7 +87,7 @@ To run the test suite: npm test
 - `tests/`: Test files
 - `config/`: Configuration files
 
-# Necessary Queries:
+# Necessary Powershell Commands:
 
 1. Create Customer :
 
